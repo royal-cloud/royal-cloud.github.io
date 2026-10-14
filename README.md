@@ -1,2 +1,3 @@
-# royal-cloud.github.io
-Public information and privacy pages for the personal YouTube Live Archiver. No recording code or credentials.
+# YouTube Live Archiver information site
+
+Public app information, privacy policy, and terms. The private recording repository, credentials, and recordings are not included.
